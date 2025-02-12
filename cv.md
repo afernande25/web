@@ -7,7 +7,7 @@
 ---
 
 
-[Experiencia Laboral](#experiencia_laboral)
+[Experiencia Laboral](#exp)
 
 --- 
 
@@ -27,7 +27,7 @@ BLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLABLA...
    ---
 
 
-# EXPERIENCIA LABORAL
+### EXPERIENCIA LABORAL {#exp}
 #### *MONSTRUM S.A (2019-2020)*
 - Planificación y ejecución de proyectos de mejora.
 - Coordinación de equipos multidisciplinarios.
